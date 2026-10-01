@@ -132,11 +132,13 @@ section{position:relative}
   radial-gradient(900px 520px at 78% 40%,rgba(240,138,60,.16),transparent 62%),
   linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);
   background-size:auto,72px 72px,72px 72px}
-.hero-grid{position:relative;display:grid;grid-template-columns:1.05fr .95fr;gap:64px;align-items:center;padding-bottom:132px}
+.hero-grid{position:relative;display:grid;grid-template-columns:1.2fr .8fr;gap:56px;align-items:center;padding-bottom:132px}
 @media (max-width:980px){.hero{padding-top:116px}.hero-grid{grid-template-columns:1fr;gap:44px;padding-bottom:96px}}
 .rating-pill{display:inline-flex;align-items:center;gap:10px;padding:8px 16px 8px 12px;border:1px solid rgba(255,255,255,.18);border-radius:999px;font-size:12.5px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#fff;background:rgba(255,255,255,.04)}
 .stars{color:var(--gold-400);letter-spacing:2px;font-size:13px}
-.hero h1{font-size:clamp(46px,7.2vw,92px);line-height:.95;text-transform:uppercase;margin:26px 0 24px}
+.hero h1{font-size:clamp(38px,4.7vw,64px);line-height:1;text-transform:uppercase;margin:26px 0 24px}
+.hero h1 span{display:block}
+@media (min-width:981px){.hero h1 span,.hero h1 em{white-space:nowrap}}
 .hero h1 em{font-style:normal;color:var(--acento-400);display:block}
 .hero .sub{font-size:19px;font-weight:600;color:#fff;max-width:32rem;margin-bottom:14px;line-height:1.5}
 .hero .body{font-size:16.5px;color:var(--tom-200);max-width:33rem;margin-bottom:38px}
@@ -332,7 +334,7 @@ dialog.lb::backdrop{background:rgba(8,10,12,.92);backdrop-filter:blur(6px)}
   <div class="wrap hero-grid">
     <div class="hero-copy">
       <span class="rating-pill"><span class="stars" aria-hidden="true">★★★★★</span> 4,9 no Google · 44 avaliações</span>
-      <h1 id="hero-title">Sua obra ou reforma com <em>engenheiro civil</em> acompanhando de perto</h1>
+      <h1 id="hero-title"><span>Sua obra ou reforma com</span> <em>engenheiro civil</em> <span>acompanhando de perto</span></h1>
       <p class="sub">Projetos, execução e laudos técnicos em Pouso Alegre e região.</p>
       <p class="body">Da planta à entrega, a ReforMar cuida de projetos estruturais e arquitetônicos, administração e execução de obras, laudos técnicos e reformas em geral. Conte o que você precisa e receba um retorno direto pelo WhatsApp.</p>
       <div class="hero-cta">
