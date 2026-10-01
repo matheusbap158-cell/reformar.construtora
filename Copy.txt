@@ -1,0 +1,106 @@
+COPY - REFORMAR CONSTRUTORA (ReforMar Construtora) - Pouso Alegre/MG
+Referência de estrutura: sem referência externa (layout próprio para construtora/engenharia)
+Dados reais usados: Google Maps (4,9 e 44 avaliações), bio do Instagram, endereço e telefone do Maps.
+
+==================================================
+SEÇÃO 1 - TOPO (HERO)
+==================================================
+Selo: 4,9 no Google · 44 avaliações
+Título: Sua obra ou reforma com engenheiro civil acompanhando de perto
+Subtítulo: Projetos, execução e laudos técnicos em Pouso Alegre e região.
+Texto: Da planta à entrega, a ReforMar cuida de projetos estruturais e arquitetônicos, administração e execução de obras, laudos técnicos e reformas em geral. Conte o que você precisa e receba um retorno direto pelo WhatsApp.
+Botão: Pedir orçamento pelo WhatsApp
+
+==================================================
+SEÇÃO 2 - SOBRE
+==================================================
+Selo: Quem somos
+Título: Engenharia que você pode acompanhar de perto
+Texto: A ReforMar Construtora atua em Pouso Alegre, em Minas Gerais, com projetos, obras e reformas. Quem já contratou destaca o atendimento próximo e o acompanhamento do engenheiro durante a execução. Nosso trabalho é tirar a obra do papel com qualidade e visão de economia, sem você precisar se preocupar com cada detalhe. [ANOS DE EXPERIÊNCIA A CONFIRMAR] [NOME COMPLETO E CREA DO ENGENHEIRO A CONFIRMAR]
+
+==================================================
+SEÇÃO 3 - SERVIÇOS
+==================================================
+Selo: O que fazemos
+Título: Tudo o que sua obra precisa, em um só lugar
+Subtítulo: Do projeto à entrega das chaves.
+Card 1 - Projetos estruturais e arquitetônicos: Projeto pensado para a sua necessidade, pronto para sair do papel.
+Card 2 - Administração e execução de obras: Acompanhamento da obra do início ao fim, com a equipe e os prazos sob controle.
+Card 3 - Laudos técnicos: Avaliação técnica do imóvel, feita por engenheiro civil.
+Card 4 - Reformas em geral: Banheiros, cozinhas, ambientes internos, cobertura e muito mais.
+Botão: Falar sobre a minha obra
+
+==================================================
+SEÇÃO 4 - OBRAS (GALERIA)
+==================================================
+Selo: Nosso trabalho
+Título: Obras reais, do concreto ao acabamento
+Subtítulo: Fotos de obras acompanhadas pela ReforMar.
+Legendas: Estrutura e laje | Sala | Parede estrutural | Cobertura metálica | Escada em concreto | Quarto | Lavabo | Obra em andamento (clique amplia a foto)
+Observação: legendas descritivas das fotos; nomes e endereços dos clientes não são exibidos.
+
+==================================================
+SEÇÃO 5 - DIFERENCIAIS
+==================================================
+Selo: Por que a ReforMar
+Título: O que os clientes mais destacam
+Item 1: Engenheiro civil acompanhando a obra
+Item 2: Atendimento próximo e prestativo
+Item 3: Equipe com experiência na execução
+Item 4: Qualidade com visão de economia
+
+==================================================
+SEÇÃO 5.1 - COMO FUNCIONA
+==================================================
+Selo: Como funciona
+Título: Do primeiro contato à obra entregue
+Passo 1 - Você conta o que precisa: Mande uma mensagem no WhatsApp com a ideia ou o problema do imóvel.
+Passo 2 - Avaliamos o projeto: Entendemos o que será feito e passamos as informações para o seu orçamento.
+Passo 3 - Execução acompanhada: A obra começa e o engenheiro acompanha cada etapa.
+Botão: Começar pelo WhatsApp
+
+==================================================
+SEÇÃO 6 - DEPOIMENTOS
+==================================================
+Selo: Depoimentos
+Título: Quem contratou, recomenda
+Subtítulo: 4,9 no Google, com 44 avaliações
+Depoimento 1 - Alison Augusto Miranda Pereira: "O Engenheiro Peter e todos que atuam com ele são profissionais exemplares."
+Depoimento 2 - andre faria de Souza: "Atendimento nota 10! Conta com uma equipe com experiência nas execuções dos serviços prestados."
+Depoimento 3 - Carlos Henrique: "Empresa diferenciada, recomendo a todos pois a empresa tem um ótimo Engenheiro que acompanha tanto na qualidade e com uma visão de economia parabéns Peter você é um grande profissional."
+
+==================================================
+SEÇÃO 7 - LOCALIZAÇÃO
+==================================================
+Selo: Onde estamos
+Título: ReforMar Construtora em Pouso Alegre
+Endereço: R. Mônica Nunes Maia, 660 - Xangrilá, Pouso Alegre - MG, 37557-120
+Telefone: (35) 99892-8856
+Texto: Horário de atendimento: [HORÁRIO A CONFIRMAR]. Fale com a gente pelo WhatsApp e conte sobre a sua obra.
+Botão: Chamar no WhatsApp
+
+==================================================
+SEÇÃO 8 - CHAMADA FINAL
+==================================================
+Título: Vamos tirar a sua obra do papel?
+Subtítulo: Orçamento direto pelo WhatsApp.
+Texto: Conte o que você precisa e a ReforMar responde com os próximos passos.
+Botão: Pedir orçamento pelo WhatsApp
+
+==================================================
+RODAPÉ
+==================================================
+Resumo: Projetos, obras, laudos técnicos e reformas em Pouso Alegre/MG.
+WhatsApp: (35) 99892-8856
+Instagram: @reformar.construtora
+
+==================================================
+O QUE FALTA CONFIRMAR COM O CLIENTE
+==================================================
+- Logo e cores da marca (a demo usa logotipo em texto e paleta provisória)
+- WhatsApp: o link do cliente tinha o número 55 035 99892-8856 (com um zero a mais); a demo usa 55 35 99892-8856, igual ao Google Maps. Confirmar.
+- Nome completo e CREA do engenheiro (nas avaliações aparece só "Peter")
+- Anos de experiência
+- Horário de atendimento (o Maps mostra só "fecha 18:00")
+- Autorização para usar as fotos das obras e os nomes de quem avaliou
+- Região atendida além de Pouso Alegre
